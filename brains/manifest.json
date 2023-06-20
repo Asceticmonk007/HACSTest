@@ -1,0 +1,17 @@
+{
+    "name": "Brains Plugin",
+    "description": "This is an example plugin for HACS",
+    "version": "1.0.0",
+    "domain": "brains_plugin",
+    "documentation": "https://example.com",
+    "dependencies": [],
+    "config": {
+        "option1": {
+            "name": "Option 1",
+            "description": "This is option 1",
+            "default": "default_value",
+            "required": false,
+            "type": "string"
+        }
+    }
+}
